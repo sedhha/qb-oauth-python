@@ -15,7 +15,7 @@
    `quickbooksVenv/Scripts/activate`
 5. Install [requirements.txt](requirements.txt)
    `pip install -r requirements.txt`
-6. Get your all quickbooks credentials using oAuth 2.0 playground. Follow this [YT video](https://www.youtube.com/watch?) for reference. Plug in these values to your [constants.py](constants.py).
+6. Get your all quickbooks credentials using oAuth 2.0 playground. Follow this [YT video](https://youtu.be/8ZFZhe2HoMY) for reference. Plug in these values to your [constants.py](constants.py).
 7. You may now run [main.py](main.py) to see it in action. There are two functions to demonstrate fetching of customers and payments data. Note that Quickbooks API allows you to perform tasks beyond that as well.
 8. In case you're looking for auto renewal of `refresh_token`, you may comment down in my YT video or raise a request here. I would love to put in a script for the same as well with full instructions.
 
